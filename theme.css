@@ -1,8 +1,9 @@
 /* if you want to go back to the old panels */
 
-.visual-refresh .panels_c48ade {
+.panels__5e434 {
     left: 80px !important;
     width: calc(100% - 90px) !important;
     box-sizing: border-box !important;
     z-index: 10 !important;
 }
+
