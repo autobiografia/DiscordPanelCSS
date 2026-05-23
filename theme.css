@@ -1,6 +1,6 @@
 /* if you want to go back to the old panels */
 
-section[class$="-panels"] {
+section[class*="panels"] {
     left: 80px !important;
     width: calc(100% - 90px) !important;
     box-sizing: border-box !important;
